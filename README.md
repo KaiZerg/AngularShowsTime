@@ -6,3 +6,4 @@ The program page displays information about a show's airing time on the network
 4) using ng-controller to attached MainController to the <div class=”main”> element
 5) using expressions to display details of program inside <div class=”main”> element
 6) using date filter to format the Date, On air and Time (date, date : ‘EEEE’, date : shortTime)
+The end
